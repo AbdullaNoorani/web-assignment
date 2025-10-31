@@ -19,3 +19,22 @@ footer {
     background-color: orange;
     padding: 15px;
 }
+
+.counter {
+    margin-top: 60px;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 18px;
+    background-color: skyblue;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: blueviolet
+}
